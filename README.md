@@ -216,10 +216,10 @@ This project demonstrates the end-to-end workflow of a data analyst, including d
 
 ## Author
 
-**Sharon Karma Louis**
+**Sharon Karmal Louis**
 
 MSc Renewable Energy | Aspiring Data Analyst
 
 LinkedIn: https://www.linkedin.com/in/sharonkarmallouis/
 
-GitHub: https://github.com/YOUR-GITHUB-USERNAME
+GitHub: https://github.com/SharonkarmalLouis
