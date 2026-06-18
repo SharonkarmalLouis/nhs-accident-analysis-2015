@@ -91,7 +91,8 @@ Dimension tables were created using values from both fact tables to ensure compl
 
 ### Admissions Analysis
 
-![Admissions Dashboard](Images/admissions_dashboard.png)
+![Admissions Dashboard](Images/admissions_dashboard.png.png)
+
 
 ### Deaths Analysis
 
