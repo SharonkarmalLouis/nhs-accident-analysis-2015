@@ -18,3 +18,7 @@ The 75+ years age group recorded the highest number of hospital admissions, with
 ### Finding 3: Gender
 
 Hospital admissions were distributed almost equally between females and males. Females recorded 451,824 admissions compared with 449,784 admissions for males, suggesting that injury-related admissions affected both sexes at a similar rate.
+
+### Finding 4: Injury Location
+
+The majority of injury-related hospital admissions occurred in unspecified locations and at home. Home-related injuries accounted for 299,336 admissions, suggesting that injury prevention efforts within domestic environments could significantly reduce hospital admissions.
