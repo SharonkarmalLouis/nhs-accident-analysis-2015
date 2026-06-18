@@ -1,5 +1,6 @@
 # nhs-accident-analysis-2015
-Analysis of NHS admissions and deaths data using Big Query, SQL and Power BI.
+Analysis of NHS accident-related hospital admissions data using BigQuery, SQL and Power BI.
+
 ## Dashboard
 
 The dashboard was built in Power BI to analyse accident-related hospital admissions in 2015.
